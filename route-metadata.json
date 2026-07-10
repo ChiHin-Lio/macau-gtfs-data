@@ -2949,7 +2949,7 @@
       "schedule": {
         "0": {
           "first": "05:30",
-          "last": "20:00",
+          "last": "00:50",
           "periods": [
             {
               "s": "05:30",
@@ -7347,6 +7347,228 @@
         "1": "University of Macau ↻ Areia Preta Health Centre"
       }
     },
+    "101X": {
+      "nameCht": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地",
+      "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ↻ PRAÇA FERRIRA AMARAL",
+      "directionNames": {
+        "0": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地",
+        "1": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地"
+      },
+      "schedule": {
+        "0": {
+          "first": "00:00",
+          "last": "23:50",
+          "periods": [
+            {
+              "s": "00:00",
+              "e": "01:00",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "01:00",
+              "e": "06:00",
+              "f": "25-30",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "19:00",
+              "f": "8-12",
+              "d": "weekdays"
+            },
+            {
+              "s": "19:00",
+              "e": "23:50",
+              "f": "8-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "00:00",
+              "e": "01:00",
+              "f": "10-15",
+              "d": "holidays"
+            },
+            {
+              "s": "01:00",
+              "e": "06:00",
+              "f": "25-30",
+              "d": "holidays"
+            },
+            {
+              "s": "06:00",
+              "e": "10:00",
+              "f": "8-12",
+              "d": "holidays"
+            },
+            {
+              "s": "10:00",
+              "e": "23:00",
+              "f": "6-10",
+              "d": "holidays"
+            },
+            {
+              "s": "23:00",
+              "e": "23:50",
+              "f": "10-15",
+              "d": "holidays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:50",
+              "f": "8-25",
+              "d": "weekdays"
+            },
+            {
+              "s": "00:00",
+              "e": "01:00",
+              "f": "8-25",
+              "d": "weekends"
+            },
+            {
+              "s": "01:00",
+              "e": "06:00",
+              "f": "25-60",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:50",
+              "f": "8-25",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:50",
+              "f": "8-25",
+              "d": "holidays"
+            }
+          ]
+        }
+      },
+      "directionNamesPt": {
+        "0": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ↻ PRAÇA FERRIRA AMARAL",
+        "1": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ↻ PRAÇA FERRIRA AMARAL"
+      },
+      "directionNamesEn": {
+        "0": "HK-Zhuhai-Macau Bridge Border Post ↻ Praça Ferreira Amaral",
+        "1": "HK-Zhuhai-Macau Bridge Border Post ↻ Praça Ferreira Amaral"
+      }
+    },
+    "102X": {
+      "nameCht": "港珠澳大橋邊檢大樓 ⇌ 橫琴澳方口岸",
+      "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇌ POSTO FRONTEIRIÇO MACAU - HENGQIN",
+      "directionNames": {
+        "0": "港珠澳大橋邊檢大樓 ⇀ 橫琴澳方口岸",
+        "1": "橫琴澳方口岸 ⇀ 港珠澳大橋邊檢大樓"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "07:00",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "07:00",
+              "f": "",
+              "d": "holidays"
+            },
+            {
+              "s": "06:00",
+              "e": "19:00",
+              "f": "15-20",
+              "d": "weekdays"
+            },
+            {
+              "s": "19:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "19:00",
+              "f": "15-20",
+              "d": "weekends"
+            },
+            {
+              "s": "19:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "09:00",
+              "f": "15-20",
+              "d": "holidays"
+            },
+            {
+              "s": "09:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "holidays"
+            }
+          ]
+        },
+        "1": {
+          "first": "15:00",
+          "last": "00:00",
+          "periods": [
+            {
+              "s": "15:00",
+              "e": "00:00",
+              "f": "",
+              "d": "holidays"
+            },
+            {
+              "s": "06:00",
+              "e": "19:00",
+              "f": "15-20",
+              "d": "weekdays"
+            },
+            {
+              "s": "19:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "19:00",
+              "f": "15-20",
+              "d": "weekends"
+            },
+            {
+              "s": "19:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "09:00",
+              "f": "15-20",
+              "d": "holidays"
+            },
+            {
+              "s": "09:00",
+              "e": "00:00",
+              "f": "20-30",
+              "d": "holidays"
+            }
+          ]
+        }
+      },
+      "directionNamesPt": {
+        "0": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇀ POSTO FRONTEIRIÇO MACAU - HENGQIN",
+        "1": "POSTO FRONTEIRIÇO MACAU - HENGQIN ⇀ POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU"
+      },
+      "directionNamesEn": {
+        "0": "HK-Zhuhai-Macau Bridge Border Post ⇀ Hengqin Border Post",
+        "1": "Hengqin Border Post ⇀ HK-Zhuhai-Macau Bridge Border Post"
+      }
+    },
     "701X": {
       "nameCht": "橫琴澳方口岸 ↻ 路氹連貫公路",
       "namePor": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ ESTRADA DO ISTMO",
@@ -8577,10 +8799,15 @@
       "nameCht": "青洲總站 ↻ 青洲總站",
       "namePor": "EST. ILHA VERDE ↻ EST. ILHA VERDE",
       "directionNames": {
-        "0": "青洲總站 ↻ 青洲總站"
+        "0": "青洲總站 ↻ 青洲總站",
+        "1": "青洲總站 ↻ 青洲總站"
       },
       "schedule": {
         "0": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "1": {
           "first": "06:00",
           "last": "01:00"
         }
@@ -8595,69 +8822,33 @@
       }
     },
     "101": {
-      "nameCht": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地",
-      "namePor": "PONTE HK-ZHUHAI-MACAU ↻ PRAIA GRANDE",
+      "nameCht": "港珠澳大橋邊檢大樓 ⇌ 亞馬喇前地",
+      "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇌ PRAÇA FERREIRA AMARAL",
       "directionNames": {
-        "0": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地"
-      },
-      "directionNamesEn": {
-        "0": "HK-Zhuhai-Macau Bridge ↻ Praia Grande"
-      },
-      "directionNamesPt": {
-        "0": "PONTE HK-ZHUHAI-MACAU ↻ PRAIA GRANDE"
+        "0": "港珠澳大橋邊檢大樓 ⇀ 亞馬喇前地"
       },
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "23:59",
           "periods": [
             {
               "s": "06:00",
-              "e": "10:00",
+              "e": "23:59",
               "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
-              "d": "weekdays"
-            },
-            {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
               "d": "weekdays"
             },
             {
               "s": "06:00",
-              "e": "10:00",
-              "f": "12-18",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
             },
             {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
-              "d": "weekends"
-            },
-            {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "12-18",
-              "d": "weekends"
-            },
-            {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
-              "d": "weekends"
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
             }
           ]
         }
@@ -8665,125 +8856,313 @@
     },
     "102": {
       "nameCht": "港珠澳大橋邊檢大樓 ⇌ 橫琴澳方口岸",
-      "namePor": "PONTE HK-ZHUHAI-MACAU ⇌ POSTO FRONTEIRIÇO HENGQIN",
+      "namePor": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇌ POSTO FRONTEIRIÇO MACAU - HENGQIN",
       "directionNames": {
-        "0": "港珠澳大橋邊檢大樓 → 橫琴澳方口岸",
-        "1": "橫琴澳方口岸 → 港珠澳大橋邊檢大樓"
-      },
-      "directionNamesEn": {
-        "0": "HK-Zhuhai-Macao Bridge → Hengqin",
-        "1": "Hengqin → HK-Zhuhai-Macao Bridge"
-      },
-      "directionNamesPt": {
-        "0": "PONTE HK-ZHUHAI-MACAU → HENGQIN",
-        "1": "HENGQIN → PONTE HK-ZHUHAI-MACAU"
+        "0": "港珠澳大橋邊檢大樓 ⇀ 橫琴澳方口岸",
+        "1": "橫琴澳方口岸 ⇀ 港珠澳大橋邊檢大樓"
       },
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "23:59",
           "periods": [
             {
               "s": "06:00",
-              "e": "10:00",
+              "e": "23:59",
               "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
-              "d": "weekdays"
-            },
-            {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
               "d": "weekdays"
             },
             {
               "s": "06:00",
-              "e": "10:00",
-              "f": "12-18",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
             },
             {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
-              "d": "weekends"
-            },
-            {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "12-18",
-              "d": "weekends"
-            },
-            {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
-              "d": "weekends"
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
             }
           ]
         },
         "1": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "23:59",
           "periods": [
             {
               "s": "06:00",
-              "e": "10:00",
+              "e": "23:59",
               "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
-              "d": "weekdays"
-            },
-            {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "10-15",
-              "d": "weekdays"
-            },
-            {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
               "d": "weekdays"
             },
             {
               "s": "06:00",
-              "e": "10:00",
-              "f": "12-18",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
             },
             {
-              "s": "10:00",
-              "e": "17:00",
-              "f": "15-20",
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "nameCht": "氹仔客運碼頭 ⇌ 祐漢",
+      "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA ⇌ IAO HON",
+      "directionNames": {
+        "0": "氹仔客運碼頭 ⇀ 祐漢"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
             },
             {
-              "s": "17:00",
-              "e": "20:00",
-              "f": "12-18",
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "15T": {
+      "nameCht": "黑沙海灘 ⇌ 蝴蝶谷大馬路",
+      "namePor": "PRAIA DE HAC SÁ ⇌ AV. VALE DAS BORBOLETAS",
+      "directionNames": {
+        "0": "黑沙海灘 ⇀ 蝴蝶谷大馬路"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
             },
             {
-              "s": "20:00",
-              "e": "00:00",
-              "f": "20",
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "21AT": {
+      "nameCht": "媽閣 ⇌ 連貫公路",
+      "namePor": "BARRA ⇌ EST. DO ISTMO",
+      "directionNames": {
+        "0": "媽閣 ⇀ 連貫公路"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
               "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "2AS": {
+      "nameCht": "黑沙環衛生中心 ⇌ 亞馬喇前地",
+      "namePor": "CENTRO DE SAÚDE DA AREIA PRETA ⇌ PRAÇA FERREIRA AMARAL",
+      "directionNames": {
+        "0": "黑沙環衛生中心 ⇀ 亞馬喇前地"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "51B": {
+      "nameCht": "蝴蝶谷大馬路 ⇌ 關閘",
+      "namePor": "AV. VALE DAS BORBOLETAS ⇌ PORTAS DO CERCO",
+      "directionNames": {
+        "0": "蝴蝶谷大馬路 ⇀ 關閘"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "60": {
+      "nameCht": "外港碼頭 ⇌ 司打口",
+      "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ⇌ PRAÇA PONTE HORTA",
+      "directionNames": {
+        "0": "外港碼頭 ⇀ 司打口"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        }
+      }
+    },
+    "61": {
+      "nameCht": "媽閣 ⇌ 關閘",
+      "namePor": "BARRA ⇌ PORTAS DO CERCO",
+      "directionNames": {
+        "0": "媽閣 ⇀ 關閘",
+        "1": "關閘 ⇀ 媽閣"
+      },
+      "schedule": {
+        "0": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
+            }
+          ]
+        },
+        "1": {
+          "first": "06:00",
+          "last": "23:59",
+          "periods": [
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekdays"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "weekends"
+            },
+            {
+              "s": "06:00",
+              "e": "23:59",
+              "f": "10-15",
+              "d": "holidays"
             }
           ]
         }
