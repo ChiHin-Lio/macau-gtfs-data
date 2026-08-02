@@ -1,0 +1,8 @@
+timestamp,source,scan_id,poll_interval_sec,route,direction,station_index,staCode,busPlate,status,speed
+2026-08-02T04:02:39.905Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,7,M172/9,AA2924,1,5
+2026-08-02T04:03:44.544Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,8,M69/1,AA2924,0,20
+2026-08-02T04:04:49.219Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,9,M164,AA2924,1,22
+2026-08-02T04:06:34.775Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,1,M165,AA2682,1,18
+2026-08-02T04:06:34.775Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,10,M151,AA2924,1,11
+2026-08-02T04:07:39.352Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,2,M151,AA2682,1,40
+2026-08-02T04:07:39.352Z,cloudflare_eta_collector,cloudflare_eta_20260802_b7040242bebb3d548736,60,H1,0,10,M151,AA2924,0,14
