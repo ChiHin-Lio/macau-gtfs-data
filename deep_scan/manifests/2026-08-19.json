@@ -455,13 +455,6 @@
       "completedAt": "2026-08-19T11:02:01.036Z"
     },
     {
-      "key": "raw/2026/08/19/19.jsonl.gz",
-      "bytes": 10,
-      "checksum": "9d1011ce9a9221ec2cbde2cc63ce50401fda24a6ffbf96a97b55552cc9e035e3",
-      "kind": "raw",
-      "completedAt": "2026-08-19T11:19:39.487Z"
-    },
-    {
       "key": "transitions/2026/08/19/transitions.jsonl.gz",
       "bytes": 10,
       "checksum": "9d1011ce9a9221ec2cbde2cc63ce50401fda24a6ffbf96a97b55552cc9e035e3",
