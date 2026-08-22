@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-21",
-  "generatedAt": "2026-08-22T00:38:26.819Z",
+  "generatedAt": "2026-08-22T00:39:26.336Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -12,10 +12,10 @@
   "pollResolutionSeconds": 30,
   "startAt": "2026-08-21T07:32:03.402Z",
   "endAt": "2026-08-21T07:34:01.847Z",
-  "requests": 608,
-  "successes": 608,
+  "requests": 464,
+  "successes": 464,
   "successRate": 1,
-  "records": 608,
+  "records": 464,
   "transitions": 0,
   "routes": [
     "1",
@@ -220,5 +220,5 @@
   },
   "compressedBytes": 0,
   "archives": [],
-  "manifestContentChecksum": "sha256:8e156f3c3050a9a779aeaa3a29ec4db0ca2a6cf955188aa97c6660d7ac56b3e3"
+  "manifestContentChecksum": "sha256:c8dfdce364693ba38af1b2265aa5138cbf0ba2c3f8fd5a60b12f708f3524ba8f"
 }
