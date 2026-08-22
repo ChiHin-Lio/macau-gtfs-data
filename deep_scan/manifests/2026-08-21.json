@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-21",
-  "generatedAt": "2026-08-22T01:18:43.284Z",
+  "generatedAt": "2026-08-22T01:19:45.586Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -12,10 +12,10 @@
   "pollResolutionSeconds": 30,
   "startAt": "2026-08-21T07:32:03.402Z",
   "endAt": "2026-08-21T07:35:32.331Z",
-  "requests": 1398,
-  "successes": 1398,
+  "requests": 1019,
+  "successes": 1019,
   "successRate": 1,
-  "records": 1398,
+  "records": 1019,
   "transitions": 0,
   "routes": [
     "1",
@@ -205,7 +205,7 @@
     "MT5_0"
   ],
   "httpStatuses": {
-    "200": 1398
+    "200": 1259
   },
   "latencyMs": {
     "p50": 0,
@@ -218,15 +218,7 @@
     "kind": "snapshots",
     "completedAt": "2026-08-22T01:18:43.282Z"
   },
-  "compressedBytes": 269197,
-  "archives": [
-    {
-      "key": "snapshots/2026/08/21/eta-vnext-v1/part-000001.jsonl.gz",
-      "bytes": 269197,
-      "checksum": "8a811b12308b802993d1c6443d9b27b6097ae7085d387113068d86ad8626511e",
-      "kind": "snapshots",
-      "completedAt": "2026-08-22T01:18:43.282Z"
-    }
-  ],
-  "manifestContentChecksum": "sha256:b5c5f8f4204ef26fdae0cff03da8c1c74541775920e84d82367fff338fe9e3ec"
+  "compressedBytes": 0,
+  "archives": [],
+  "manifestContentChecksum": "sha256:f097e8dd0b69f16af358a8b0cb60cfe1a24ad78f3f743d331d997ada2e38af6e"
 }
