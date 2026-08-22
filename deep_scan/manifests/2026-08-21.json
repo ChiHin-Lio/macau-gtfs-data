@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-21",
-  "generatedAt": "2026-08-22T01:23:42.083Z",
+  "generatedAt": "2026-08-22T01:24:56.099Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -218,15 +218,7 @@
     "kind": "snapshots",
     "completedAt": "2026-08-22T01:23:42.082Z"
   },
-  "compressedBytes": 269160,
-  "archives": [
-    {
-      "key": "snapshots/2026/08/21/eta-vnext-v1/part-000001.jsonl.gz",
-      "bytes": 269160,
-      "checksum": "8ee3544351c62bc65203470e7b08cc6b91c8d9ebde43fcd487a2471da8da01c2",
-      "kind": "snapshots",
-      "completedAt": "2026-08-22T01:23:42.082Z"
-    }
-  ],
-  "manifestContentChecksum": "sha256:fc73bf590f62dca9cbb5afeb9a6f94e382bb9ca4f6381bb0ca17fcfb9bcfc669"
+  "compressedBytes": 0,
+  "archives": [],
+  "manifestContentChecksum": "sha256:cfe310cabb9db388adf489cab6c9d9f8614f782941b0da101bef8ea6efbf3366"
 }
