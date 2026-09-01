@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T16:01:40.885Z",
+  "generatedAt": "2026-09-01T16:02:40.966Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -15,12 +15,12 @@
     "sha256:93722ca6ac4eb1a813ee041fde66933164b00315dd5259d897cfc0f92d4659f8"
   ],
   "pollResolutionSeconds": 30,
-  "startAt": "2026-09-01T15:45:22.515Z",
-  "endAt": "2026-09-01T15:58:59.031Z",
+  "startAt": "2026-09-01T15:44:06.355Z",
+  "endAt": "2026-09-01T15:58:47.000Z",
   "requests": 0,
   "successes": 0,
   "successRate": 0,
-  "records": 16,
+  "records": 12,
   "transitions": 0,
   "routes": [],
   "directions": [],
@@ -31,27 +31,20 @@
   },
   "latestArchive": {
     "key": "outcomes/2026/09/01/eta-vnext-v1/23/route-3-1/part-000001.jsonl.gz",
-    "bytes": 1573,
-    "checksum": "eab90472c247cfffb49e58de9b172e4445eed03452040251de2251dbb7987acd",
+    "bytes": 6246,
+    "checksum": "0f42a0f73ea30010ea58fd1cca181d32c60e9351b8cfcab1274afd5b4f8a7463",
     "kind": "outcomes",
-    "completedAt": "2026-09-01T16:01:40.884Z"
+    "completedAt": "2026-09-01T16:02:40.966Z"
   },
-  "compressedBytes": 8483,
+  "compressedBytes": 6246,
   "archives": [
     {
-      "key": "outcomes/2026/09/01/eta-vnext-v1/23/route-3-0/part-000001.jsonl.gz",
-      "bytes": 6910,
-      "checksum": "b1ba3f21278040f6bce78b34421d1b573100f111d9b5a80c1f0fe11e7445f880",
-      "kind": "outcomes",
-      "completedAt": "2026-09-01T16:01:40.836Z"
-    },
-    {
       "key": "outcomes/2026/09/01/eta-vnext-v1/23/route-3-1/part-000001.jsonl.gz",
-      "bytes": 1573,
-      "checksum": "eab90472c247cfffb49e58de9b172e4445eed03452040251de2251dbb7987acd",
+      "bytes": 6246,
+      "checksum": "0f42a0f73ea30010ea58fd1cca181d32c60e9351b8cfcab1274afd5b4f8a7463",
       "kind": "outcomes",
-      "completedAt": "2026-09-01T16:01:40.884Z"
+      "completedAt": "2026-09-01T16:02:40.966Z"
     }
   ],
-  "manifestContentChecksum": "sha256:abbdd6c8d0bd451e5e9366200fa901a22e48a904e9b4ec0237ec4a879bf59e7a"
+  "manifestContentChecksum": "sha256:f92922a5c6ed0f288ed670ed60bb68cb100cf76f0ee3d1cfd5e28f29d1080bfe"
 }
