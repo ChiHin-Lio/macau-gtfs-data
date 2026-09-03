@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-03T02:31:21.266Z",
+  "generatedAt": "2026-09-03T02:40:39.783Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -20,7 +20,7 @@
   "requests": 0,
   "successes": 0,
   "successRate": 0,
-  "records": 59,
+  "records": 118,
   "transitions": 0,
   "routes": [],
   "directions": [],
@@ -30,28 +30,28 @@
     "p95": null
   },
   "latestArchive": {
-    "key": "features/2026/09/02/eta-vnext-v1/part-000001.jsonl.gz",
-    "bytes": 1894,
-    "checksum": "f97085c6a48369048e5452c9276840cfaddc5c061d242afdcf7ec20afcf3c7d3",
-    "kind": "features",
-    "completedAt": "2026-09-03T02:26:30.031Z"
+    "key": "outcomes/2026/09/02/eta-vnext-v1/01/route-3-0/part-000001.jsonl.gz",
+    "bytes": 22639,
+    "checksum": "2f61af1e41f264ab21277b039cf49b07f1aa5b47155b19df45ba98c7d3db54ec",
+    "kind": "outcomes",
+    "completedAt": "2026-09-03T02:40:39.782Z"
   },
-  "compressedBytes": 24558,
+  "compressedBytes": 45258,
   "archives": [
     {
       "key": "outcomes/2026/09/02/eta-vnext-v1/01/route-3-0/part-000001.jsonl.gz",
-      "bytes": 22664,
-      "checksum": "ef5158ca8a3bad2faf04f25052b0336375420034377c79e29e30b6f531ec6fbd",
+      "bytes": 22619,
+      "checksum": "59cf7719e979d42a7e268339962200ef1a1113c58a49dc0b97a30107b07901c7",
       "kind": "outcomes",
-      "completedAt": "2026-09-03T02:26:29.558Z"
+      "completedAt": "2026-09-03T02:39:26.095Z"
     },
     {
-      "key": "features/2026/09/02/eta-vnext-v1/part-000001.jsonl.gz",
-      "bytes": 1894,
-      "checksum": "f97085c6a48369048e5452c9276840cfaddc5c061d242afdcf7ec20afcf3c7d3",
-      "kind": "features",
-      "completedAt": "2026-09-03T02:26:30.031Z"
+      "key": "outcomes/2026/09/02/eta-vnext-v1/01/route-3-0/part-000001.jsonl.gz",
+      "bytes": 22639,
+      "checksum": "2f61af1e41f264ab21277b039cf49b07f1aa5b47155b19df45ba98c7d3db54ec",
+      "kind": "outcomes",
+      "completedAt": "2026-09-03T02:40:39.782Z"
     }
   ],
-  "manifestContentChecksum": "sha256:8e86dd67f53582dfbb032d68efda63a755b766e515f8e3b8d3fcfde85b5e0926"
+  "manifestContentChecksum": "sha256:03e85eace9dbc92b65f807e5e15cf8590c20f8c851b77178bfc826dd012154f3"
 }
