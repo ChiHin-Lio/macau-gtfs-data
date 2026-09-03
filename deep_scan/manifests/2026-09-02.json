@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-03T04:04:59.867Z",
+  "generatedAt": "2026-09-03T04:06:06.189Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -46,5 +46,5 @@
       "completedAt": "2026-09-03T04:00:47.892Z"
     }
   ],
-  "manifestContentChecksum": "sha256:68457658b74ce2551c8238e27196005929c7bda5609203436f0d380fe13e99b3"
+  "manifestContentChecksum": "sha256:779dc686e4e933bb047523b3ecf89ef23d76f6b58ff23d76b495a0ae6b9df824"
 }
