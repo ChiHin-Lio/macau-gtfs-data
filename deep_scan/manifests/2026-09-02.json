@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-05T04:56:43.264Z",
+  "generatedAt": "2026-09-05T05:02:43.472Z",
   "source": "railway_deep_scan",
   "experimentIDs": [
     "eta-vnext-v1"
@@ -31,20 +31,20 @@
   },
   "latestArchive": {
     "key": "outcomes/2026/09/02/eta-vnext-v1/01/route-3-0/part-000001.jsonl.gz",
-    "bytes": 22634,
-    "checksum": "a79b09f5e93bad6dbaaa7f15f9aeaacdc3a974d093b03fca451d2826f9e2252d",
+    "bytes": 22639,
+    "checksum": "190c0e4a496894ea81c48ac2ef1827d4e521aa34de95269fbd79f4e172e14450",
     "kind": "outcomes",
-    "completedAt": "2026-09-05T04:56:43.262Z"
+    "completedAt": "2026-09-05T05:02:43.470Z"
   },
-  "compressedBytes": 22634,
+  "compressedBytes": 22639,
   "archives": [
     {
       "key": "outcomes/2026/09/02/eta-vnext-v1/01/route-3-0/part-000001.jsonl.gz",
-      "bytes": 22634,
-      "checksum": "a79b09f5e93bad6dbaaa7f15f9aeaacdc3a974d093b03fca451d2826f9e2252d",
+      "bytes": 22639,
+      "checksum": "190c0e4a496894ea81c48ac2ef1827d4e521aa34de95269fbd79f4e172e14450",
       "kind": "outcomes",
-      "completedAt": "2026-09-05T04:56:43.262Z"
+      "completedAt": "2026-09-05T05:02:43.470Z"
     }
   ],
-  "manifestContentChecksum": "sha256:ba08eaa797372b74391e3a7ddb1ebdb6fb1153795cc937c3e14136db36f7b577"
+  "manifestContentChecksum": "sha256:301b06d72b6728dc84a14e6be6911626cfa33d8b763faab3f4318bf92fcd8a15"
 }
